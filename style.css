@@ -34,7 +34,7 @@
 
 @media only screen and (max-width: 600px) {
   .header-logo {
-    font-size: 1.5em; /* Reducem dimensiunea fontului pentru ecrane mici */
+    font-size: 1.5em;
   }
 
   .container {
